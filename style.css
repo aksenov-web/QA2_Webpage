@@ -25,7 +25,6 @@ a {
 }
 
 #navigation img {
-
   height: 100%;
   padding-left: 10px;
 }
@@ -81,11 +80,6 @@ a {
   margin-top: 0;
   padding-left: 10px;
   font-size: x-large;
-}
-#main_1 input {
-  text-align: center;
-  padding: 0px;
-  width: 100%;
 }
 
 #footer {
